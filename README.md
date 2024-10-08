@@ -11,7 +11,7 @@ To run the test cases, the library [dlroms](https://github.com/MatteoTomasetto/d
 This library is a fork of the [dlroms](https://github.com/NicolaRFranco/dlroms.git) library, that is written and currently maintained by [Nicola Rares Franco](https://github.com/NicolaRFranco), Ph.D., MOX, Politecnico di Milano.
 
 ## Optimal transport in a vacuum
-`OptimalTransportVacuum.ipynb` presents the optimal transport in a vacuum test case where the state -- whose dynamics is described by the Fokker-Planck equation -- is moved from an initial position to a target destination. Different starting positions and final endpoints may be considered. The velocity on the entire domain is instead regarded as control action.
+`OptimalTransportVacuum.ipynb` presents the optimal transport in a vacuum test case where the state, whose dynamics is described by the Fokker-Planck equation, is moved towards a target position. Different starting configurations and final endpoints may be considered. The control action is the velocity field on the entire domain.
 
 <p align="center" width="100%">
   <img width=40% src="./gifs/OptimalTransportVacuum/State_test.gif" >
