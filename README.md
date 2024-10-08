@@ -22,9 +22,9 @@ This library is a fork of the [dlroms](https://github.com/NicolaRFranco/dlroms.g
 </p>
 
 <p align="center" width="100%">
-  <img width=30% src="./gifs/State_test_latentloop.gif" >
+  <img width=30% src="./gifs/OptimalTransportVacuum/State_test_latentloop.gif" >
     
-  <img width=30% src="./gifs/Control_test_latentloop.gif" >
+  <img width=30% src="./gifs/OptimalTransportVacuum/Control_test_latentloop.gif" >
   <br />
   Optimal state and control trajectory provided by the latent feedback loop corresponding to the initial position (−0.24, −0.14) and the target position (0.48,−0.03) in the test set 
 </p>
