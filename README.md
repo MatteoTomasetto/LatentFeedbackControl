@@ -18,7 +18,7 @@ This library is a fork of the [dlroms](https://github.com/NicolaRFranco/dlroms.g
     
   <img width=30% src="./gifs/OptimalTransportVacuum/Control_test.gif" >
   <br />
-  Optimal state and control trajectory corresponding to the initial position (−0.24, −0.14) and the target position (0.48,−0.03) in the test set 
+  Optimal state and control trajectory provided by the deep learning-based reduced order feedback controller corresponding to the initial position (−0.24, −0.14) and the target position (0.48,−0.03) in the test set 
 </p>
 
 <p align="center" width="100%">
