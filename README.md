@@ -14,17 +14,17 @@ This library is a fork of the [dlroms](https://github.com/NicolaRFranco/dlroms.g
 `OptimalTransportVacuum.ipynb` presents the optimal transport in a vacuum test case where the state -- whose dynamics is described by the Fokker-Planck equation -- is moved from an initial position to a target destination. Different starting positions and final endpoints may be considered. The velocity on the entire domain is instead regarded as control action.
 
 <p align="center" width="100%">
-  <img width=50% src="./gifs/OptimalTransportVacuum/State_test.gif" >
+  <img width=40% src="./gifs/OptimalTransportVacuum/State_test.gif" >
     
-  <img width=50% src="./gifs/OptimalTransportVacuum/Control_test.gif" >
+  <img width=40% src="./gifs/OptimalTransportVacuum/Control_test.gif" >
   <br />
   Optimal state and control trajectory provided by the deep learning-based reduced order feedback controller corresponding to the initial position (−0.24, −0.14) and the target position (0.48,−0.03) in the test set 
 </p>
 
 <p align="center" width="100%">
-  <img width=50% src="./gifs/OptimalTransportVacuum/State_test_latentloop.gif" >
+  <img width=40% src="./gifs/OptimalTransportVacuum/State_test_latentloop.gif" >
     
-  <img width=50% src="./gifs/OptimalTransportVacuum/Control_test_latentloop.gif" >
+  <img width=40% src="./gifs/OptimalTransportVacuum/Control_test_latentloop.gif" >
   <br />
   Optimal state and control trajectory provided by the latent feedback loop corresponding to the initial position (−0.24, −0.14) and the target position (0.48,−0.03) in the test set 
 </p>
