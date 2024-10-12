@@ -41,7 +41,7 @@ This library is a fork of the [dlroms](https://github.com/NicolaRFranco/dlroms.g
 </p>
 
 <p align="center" width="100%">
-  <img width=40% src="./gifs/OptimalTransportFluidState_test_latentloop.gif" >
+  <img width=40% src="./gifs/OptimalTransportFluid/State_test_latentloop.gif" >
     
   <img width=40% src="./gifs/OptimalTransportFluid/Control_test_latentloop.gif" >
   <br />
