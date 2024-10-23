@@ -8,7 +8,6 @@ This repository contains the official source code implementation of the paper
 `NN` folder contains the autoencoders, the policies and the forward maps built and trained in the optimal transport test cases
 
 To run the test cases, the library [dlroms](https://github.com/MatteoTomasetto/dlroms) is required to handle meshes, finite element spaces, neural networks and proper orthogonal decomposition.
-This library is a fork of the [dlroms](https://github.com/NicolaRFranco/dlroms.git) library, that is written and currently maintained by [Nicola Rares Franco](https://github.com/NicolaRFranco), Ph.D., MOX, Politecnico di Milano.
 
 ## Optimal transport in a vacuum
 `OptimalTransportVacuum.ipynb` presents the optimal transport in a vacuum test case where the state, whose dynamics is described by the Fokker-Planck equation, is moved towards a target position. Different starting configurations and final endpoints may be considered. The control action is the velocity field on the entire domain.
