@@ -17,7 +17,7 @@ To run the test cases, the library [dlroms](https://github.com/MatteoTomasetto/d
     
   <img width=40% src="./gifs/OptimalTransportVacuum/Control_test.gif" >
   <br />
-  Optimal state and control trajectory provided by the deep learning-based reduced order feedback controller corresponding to the initial position (−0.24, −0.14) and the target position (0.48,−0.03) in the test set 
+  Optimal state and control trajectory provided by the deep learning-based reduced order feedback controller corresponding to the initial position $(−0.24, −0.14)$ and the target position $(0.48,−0.03)$ in the test set 
 </p>
 
 <p align="center" width="100%">
@@ -25,7 +25,7 @@ To run the test cases, the library [dlroms](https://github.com/MatteoTomasetto/d
     
   <img width=40% src="./gifs/OptimalTransportVacuum/Control_test_latentloop.gif" >
   <br />
-  Optimal state and control trajectory provided by the latent feedback loop corresponding to the initial position (−0.24, −0.14) and the target position (0.48,−0.03) in the test set 
+  Optimal state and control trajectory provided by the latent feedback loop corresponding to the initial position $(−0.24, −0.14)$ and the target position $(0.48,−0.03)$ in the test set 
 </p>
 
 ## Optimal transport in a fluid
@@ -36,7 +36,7 @@ To run the test cases, the library [dlroms](https://github.com/MatteoTomasetto/d
     
   <img width=40% src="./gifs/OptimalTransportFluid/Control_test.gif" >
   <br />
-  Optimal state and control trajectory provided by the deep learning-based reduced order feedback controller corresponding to the initial position (−0.5, 0.0), the target position (0.5, 0.0), inflow velocity intensity and angle of attack equal to, respectively, $0.5$ and $0.5$
+  Optimal state and control trajectory provided by the deep learning-based reduced order feedback controller corresponding to the initial position $(−0.5, 0.0)$, the target position $(0.5, 0.0)$, inflow velocity intensity and angle of attack equal to, respectively, $0.5$ and $0.5$
 </p>
 
 <p align="center" width="100%">
@@ -44,6 +44,6 @@ To run the test cases, the library [dlroms](https://github.com/MatteoTomasetto/d
     
   <img width=40% src="./gifs/OptimalTransportFluid/Control_test_latentloop.gif" >
   <br />
-  Optimal state and control trajectory provided by the latent feedback loop corresponding to the initial position (−0.5, 0.0), the target position (0.5, 0.0), inflow velocity intensity and angle of attack equal to, respectively, $0.5$ and $-0.5$
+  Optimal state and control trajectory provided by the latent feedback loop corresponding to the initial position $(−0.5, 0.0)$, the target position $(0.5, 0.0)$, inflow velocity intensity and angle of attack equal to, respectively, $0.5$ and $-0.5$
 </p>
 
