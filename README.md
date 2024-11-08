@@ -1,7 +1,7 @@
 # DL-ROM in the loop
 
 This repository contains the official source code implementation of the paper
-*DL-ROM in the loop: a deep learning-based reduced order feedback control of high-dimensional parametrized systems*
+*Latent feedback contol of high-dimensional parametrized partial differential equations*
 
 `Data` folder contains the scenario parameters and the simulated snapshots for the optimal transport test cases
 
