@@ -1,4 +1,4 @@
-# DL-ROM in the loop
+# Latent feedback control of high-dimensional parametrized PDEs
 
 This repository contains the official source code implementation of the paper
 *Latent feedback contol of high-dimensional parametrized partial differential equations*
