@@ -1,7 +1,7 @@
-# Latent feedback control of high-dimensional parametrized PDEs
+# Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models
 
 This repository contains the official source code implementation of the paper
-*Latent feedback contol of high-dimensional parametrized partial differential equations*
+*Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models*
 
 `Data` folder contains the scenario parameters and the simulated snapshots for the optimal transport test cases
 
