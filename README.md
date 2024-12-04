@@ -1,4 +1,4 @@
-# Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models
+# Latent feedback control
 
 This repository contains the official source code implementation of the paper
 *Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models*
