@@ -10,7 +10,7 @@ This repository contains the official source code implementation of the paper
 To run the test cases, the library [dlroms](https://github.com/MatteoTomasetto/dlroms) is required to handle meshes, finite element spaces, neural networks and proper orthogonal decomposition.
 
 <p align="center" width="100%">
-  <img width=100% src="./media/OCP-DL-ROM-Feedback.jpg" >
+  <img width=80% src="./media/OCP-DL-ROM-Feedback.jpg" >
   <br />
 </p>
 
