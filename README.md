@@ -1,11 +1,11 @@
 # Latent feedback control
 
 This repository contains the official source code implementation of the paper
-*Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models*
+*Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models*.
 
-`Data` folder contains the scenario parameters and the simulated snapshots for the optimal transport test cases
+`Data` folder contains the scenario parameters and the simulated snapshots for the optimal transport test cases;
 
-`NN` folder contains the autoencoders, the policies and the forward maps built and trained in the optimal transport test cases
+`NN` folder contains the autoencoders, the policies and the forward maps built and trained in the optimal transport test cases;
 
 To run the test cases, the library [dlroms](https://github.com/MatteoTomasetto/dlroms) is required to handle meshes, finite element spaces, neural networks and proper orthogonal decomposition.
 
