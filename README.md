@@ -1,7 +1,7 @@
 # Latent feedback control
 
 This repository contains the official source code implementation of the paper
-*Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models*.
+*Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models* ([arXiv](https://doi.org/10.48550/arXiv.2412.09942)).
 
 `Data` folder contains the scenario parameters and the simulated snapshots for the optimal transport test cases;
 
@@ -52,3 +52,17 @@ To run the test cases, the library [dlroms](https://github.com/MatteoTomasetto/d
   Optimal state and control trajectory provided by the latent feedback loop corresponding to the initial position $(−0.5, 0.0)$, the target position $(0.5, 0.0)$, inflow velocity intensity and angle of attack equal to, respectively, $0.5$ and $-0.5$
 </p>
 
+## Cite
+If you use this code for your work, please cite
+
+```
+@misc{tomasetto2024latent-feedback-control,
+      title={Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models}, 
+      author={Matteo Tomasetto and Francesco Braghin and Andrea Manzoni},
+      year={2024},
+      eprint={2412.09942},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      url={https://arxiv.org/abs/2412.09942}, 
+}
+```
