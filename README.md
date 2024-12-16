@@ -18,19 +18,8 @@ To run the test cases, the library [dlroms](https://github.com/MatteoTomasetto/d
 `OptimalTransportVacuum.ipynb` presents the optimal transport in a vacuum test case where the state, whose dynamics is described by the Fokker-Planck equation, is moved towards a target position. Different starting configurations and final endpoints may be considered. The control action is the velocity field on the entire domain.
 
 <p align="center" width="100%">
-  <img width=40% src="./media/OptimalTransportVacuum/State_test.gif" >
-    
-  <img width=40% src="./media/OptimalTransportVacuum/Control_test.gif" >
+  <img width=40% src="./media/OptimalTransportVacuum.gif" >
   <br />
-  Optimal state and control trajectory provided by the deep learning-based reduced order feedback controller corresponding to the initial position $(−0.24, −0.14)$ and the target position $(0.48,−0.03)$ in the test set 
-</p>
-
-<p align="center" width="100%">
-  <img width=40% src="./media/OptimalTransportVacuum/State_test_latentloop.gif" >
-    
-  <img width=40% src="./media/OptimalTransportVacuum/Control_test_latentloop.gif" >
-  <br />
-  Optimal state and control trajectory provided by the latent feedback loop corresponding to the initial position $(−0.24, −0.14)$ and the target position $(0.48,−0.03)$ in the test set 
 </p>
 
 ## Optimal transport in a fluid
@@ -38,18 +27,7 @@ To run the test cases, the library [dlroms](https://github.com/MatteoTomasetto/d
 
 <p align="center" width="100%">
   <img width=40% src="./media/OptimalTransportFluid/State_test.gif" >
-    
-  <img width=40% src="./media/OptimalTransportFluid/Control_test.gif" >
   <br />
-  Optimal state and control trajectory provided by the deep learning-based reduced order feedback controller corresponding to the initial position $(−0.5, 0.0)$, the target position $(0.5, 0.0)$, inflow velocity intensity and angle of attack equal to, respectively, $0.5$ and $0.5$
-</p>
-
-<p align="center" width="100%">
-  <img width=40% src="./media/OptimalTransportFluid/State_test_latentloop.gif" >
-    
-  <img width=40% src="./media/OptimalTransportFluid/Control_test_latentloop.gif" >
-  <br />
-  Optimal state and control trajectory provided by the latent feedback loop corresponding to the initial position $(−0.5, 0.0)$, the target position $(0.5, 0.0)$, inflow velocity intensity and angle of attack equal to, respectively, $0.5$ and $-0.5$
 </p>
 
 ## Cite
