@@ -34,6 +34,7 @@ To run the test cases, the library [dlroms](https://github.com/MatteoTomasetto/d
 If you use this code for your work, please cite
 
 ```
+bibtek
 @misc{tomasetto2024latent-feedback-control,
       title={Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models}, 
       author={Matteo Tomasetto and Francesco Braghin and Andrea Manzoni},
