@@ -1,7 +1,7 @@
 # Latent feedback control
 
 This repository contains the official source code implementation of the paper
-*Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models* ([arXiv](https://doi.org/10.48550/arXiv.2412.09942)).
+*Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models* ([arXiv](https://doi.org/10.48550/arXiv.2412.09942), [paper](https://doi.org/10.1016/j.cma.2025.118030)).
 
 `Data` folder contains the scenario parameters and the simulated snapshots for the optimal transport test cases;
 
@@ -34,13 +34,15 @@ To run the test cases, the library [dlroms](https://github.com/MatteoTomasetto/d
 If you use this code for your work, please cite
 
 ```bibtex
-@misc{tomasetto2024latent-feedback-control,
-      title={Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models}, 
-      author={Matteo Tomasetto and Francesco Braghin and Andrea Manzoni},
-      year={2024},
-      eprint={2412.09942},
-      archivePrefix={arXiv},
-      primaryClass={math.OC},
-      url={https://arxiv.org/abs/2412.09942}, 
+@article{tomasetto-latentfeedbackcontrol2025,
+title = {Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {442},
+pages = {118030},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118030},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003020},
+author = {Matteo Tomasetto and Francesco Braghin and Andrea Manzoni}
 }
 ```
